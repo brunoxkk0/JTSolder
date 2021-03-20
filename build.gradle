@@ -37,7 +37,7 @@ dependencies {
 
 
 application {
-    mainClass.set("br.com.brunoxkk0.Application")
+    mainClass.set("br.com.brunoxkk0.JTSolderApplication")
 }
 java {
     sourceCompatibility = JavaVersion.toVersion("11")
